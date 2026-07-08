@@ -1,0 +1,21 @@
+# GENERATED explicit (no-glob kurali; find ile, build-config wildcard'siz). Yeni .cpp -> bu dosyayi guncelle.
+set(FC_FMM_SRCS
+    "PX4/src/modules/flight_mode_manager/FlightModeManager.cpp"
+    "PX4/src/modules/flight_mode_manager/FlightTasks_generated.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/AltitudeCruise/FlightTaskAltitudeCruise.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/Auto/FlightTaskAuto.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/AutoFollowTarget/FlightTaskAutoFollowTarget.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/Descend/FlightTaskDescend.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/Failsafe/FlightTaskFailsafe.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/FlightTask/FlightTask.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/ManualAcceleration/FlightTaskManualAcceleration.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/ManualAccelerationSlow/FlightTaskManualAccelerationSlow.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/ManualAltitude/FlightTaskManualAltitude.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/ManualAltitudeSmoothVel/FlightTaskManualAltitudeSmoothVel.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/ManualPosition/FlightTaskManualPosition.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/Orbit/FlightTaskOrbit.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/Transition/FlightTaskTransition.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/Utility/Gimbal.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/Utility/StickAccelerationXY.cpp"
+    "PX4/src/modules/flight_mode_manager/tasks/Utility/StickTiltXY.cpp"
+)

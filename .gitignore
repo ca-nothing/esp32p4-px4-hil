@@ -1,0 +1,41 @@
+# ESP-IDF Build & Config
+build/
+sdkconfig
+sdkconfig.old
+*.elf
+*.map
+*.bin
+*.hex
+
+# Managed Components (idf.py re-downloads these)
+managed_components/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Generated
+dependencies.lock
+
+*.tmp.py
+problem_description.txt
+_archive_2026-07-06/
+
+# Kisisel dev-tooling (yayinlanmaz)
+.claude/
+.clinerules
+.mcp.json
+.clangd

@@ -1,0 +1,21 @@
+# GENERATED explicit (no-glob kurali; find ile, build-config wildcard'siz). Yeni .cpp -> bu dosyayi guncelle.
+set(FC_NAVIGATOR_SRCS
+    "PX4/src/modules/navigator/MissionFeasibility/FeasibilityChecker.cpp"
+    "PX4/src/modules/navigator/course.cpp"
+    "PX4/src/modules/navigator/geofence.cpp"
+    "PX4/src/modules/navigator/land.cpp"
+    "PX4/src/modules/navigator/loiter.cpp"
+    "PX4/src/modules/navigator/mission.cpp"
+    "PX4/src/modules/navigator/mission_base.cpp"
+    "PX4/src/modules/navigator/mission_block.cpp"
+    "PX4/src/modules/navigator/mission_feasibility_checker.cpp"
+    "PX4/src/modules/navigator/navigator_main.cpp"
+    "PX4/src/modules/navigator/navigator_mode.cpp"
+    "PX4/src/modules/navigator/precland.cpp"
+    "PX4/src/modules/navigator/rtl.cpp"
+    "PX4/src/modules/navigator/rtl_direct.cpp"
+    "PX4/src/modules/navigator/rtl_direct_mission_land.cpp"
+    "PX4/src/modules/navigator/rtl_mission_fast.cpp"
+    "PX4/src/modules/navigator/rtl_mission_fast_reverse.cpp"
+    "PX4/src/modules/navigator/takeoff.cpp"
+)
